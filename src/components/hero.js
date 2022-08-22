@@ -17,9 +17,9 @@ export default function Hero() {
           alt="avatar"
         ></img>
         <p className="hero-author-text">
-          Written by XXXX.
+          Written by sakura-temmie.
           <br />
-          Front Engineer at Hoge.Inc. Love JavaScript.
+          Front Engineer Love JavaScript.
         </p>
       </div>
     </div>
